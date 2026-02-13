@@ -32,7 +32,15 @@ Aqui está uma prévia do conversor de moedas em ação:
 
 - 📉 Exibição do ticker de moedas via widget TradingView para dados financeiros em tempo real  
 
-- 🎨 Interface amigável e responsiva
+---
+
+## 🎨 Interface amigável e responsiva
+
+Este projeto funciona bem tanto no computador quanto no celular.  
+No desktop, tudo fica organizado e fácil de usar.  
+No celular, o layout se adapta para caber na tela, deixando os botões e textos legíveis e fáceis de tocar.  
+
+Assim, você pode usar o conversor de moedas com conforto em qualquer dispositivo.
 
 ---
 
@@ -40,4 +48,4 @@ Aqui está uma prévia do conversor de moedas em ação:
 
 1. Clone este repositório para sua máquina local:  
    ```bash
-   git clone https://github.com/seuusuario/devclub-conversor-de-moedas.git
+   git clone https://github.com/talvane-dev/devclub-conversor-de-moedas.git
